@@ -16,6 +16,8 @@ These instructions will get you a copy of the project up and running on your loc
 * [Matplotlib](https://matplotlib.org/contents.html) - Used to plot Graph
 * [Pickle](https://docs.python.org/3/library/pickle.html) - Used to save trained models/object
 * [Pandas](http://pandas.pydata.org/pandas-docs/version/0.18.0/) - Used to load dataset
+* [Tensorflow](https://www.tensorflow.org/install/) - Used in Deep Neural Network to create models
+* [Quandl](https://anaconda.org/anaconda/quandl) - Financial and economic datasets from hundreds of publishers directly into Python
 
 
 ### Installing
